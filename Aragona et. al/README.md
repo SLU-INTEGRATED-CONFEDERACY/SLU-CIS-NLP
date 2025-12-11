@@ -5,9 +5,7 @@ A structured and curated Hiligaynon lexicon designed for linguistic research, NL
 This repository contains our full Hiligaynon lexical dataset along with supporting materials developed for academic and computational use.
 
 
-## 📘 About the Dataset: Hiligaynon NLP Lexicon
-
-### 🎯 Purpose of the Dataset
+## 🎯 Purpose of the Dataset
 The lexicon is created to support:
 
 - NLP tasks such as tokenization, POS-tagging, sentiment analysis, and semantic processing
