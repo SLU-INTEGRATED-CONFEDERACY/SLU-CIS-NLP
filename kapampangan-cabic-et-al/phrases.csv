@@ -1,0 +1,87 @@
+phrase,meaning,tag,english,filipino,context,consulted
+aldo aldo,mean something happens on a daily basis,NOUN (time),everyday,araw araw,used for discussions,NO_EQUIV
+yaku ampo ika,means emphasizing as together,PROJ + CCONJ,I and you,ako at ikaw,used for discussions,aku ampo ika
+bayung banua,dictates the year of anew,ADJ + NOUN,new year,bagong taon,used for celebration,NO_EQUIV
+kening bale,discuss about home,ADP + NOUN,this house,itong bahay,used for discussions,NO_EQUIV
+marakal rikado,to say many ingridients,ADJ + NOUN,many ingredients,maraming sangkap,can be used for instructions,NO_EQUIV
+delikadong dalan,giving warning statement about the road,ADJ + NOUN,dangerous road,dalikadong daan,used for giving directions / warnings,dangerous to bring (alternative)
+gintong ebun,Methaphor to an item that can give richness,ADJ + NOUN,golden egg,gintong itlog,used in idioms or metaphors,NO_EQUIV
+ikami ngan,giving inclusion to people of discussion,PRON + ADV,all of us,kaming lahat,used for inclusivity / group statements,NO_EQUIV
+lual bale,statement about outside the house,ADV/ADP + NOUN,outside the house,labas ng bahay,used for location,NO_EQUIV
+retang malan,stating of the direction of the clothes,DET + NOUN,those clothes,yung mga damit,used for pointing objects,NO_EQUIV
+lawen me lalam lamesa,to see beyond the bigger picture,VERB + PRON + ADP + NOUN,look under the table,tumingin sa ilalim ng lamesa,used for instructions,NO_EQUIV
+keng wanan gamat ku susulat,states on the use of the right hand in writing,ADP + NOUN + VERB,I write using my right hand,sumusulat ako gamit ang aking kanang kamay,used for dictation / description,susulat ku keng wana gamat / wanang gamat keng panyulat
+kalagurang ko reng pengari ku,Emphasizing for the love of parents,VERB + PRON + NOUN,I love my parents,mahal ko ang aking magulang,used for expressions of affection,NO_EQUIV
+kaya ya ing bag,statement of the person's bag,PRON + VERB + NOUN,It his/her bag,Sa kanya yung bag,used for dictation,NO_EQUIV
+nanung gagawan mu,to greet a pleasant morning,ADJ + NOUN,good morning ,magandang umaga,used as greeting,nanung gagawan mu
+mikit tamu potang ganingaldo,giving instruction on time of meetup,VERB + PRON + NOUN (time),let us meet later at midnight,magkita tayo mayang hating gabi,used for planning/appointments,NO_EQUIV
+ung gagawan mu,asking of an action of a person,PRON (interrog) + VERB + PRON,what are you doing,anong ginagawa mo,used for asking actions,NO_EQUIV
+ninu ka,used for introductions,PRON (interrog) + PRON,who are you,sino ka,used for introductions,ninu ka
+kapilan ka munta kekami,asking for a schedule,PRON (interrog) + PRON + VERB + PRON,when will you go yo our place,kailan ka pupunta sa samin,used for asking schedule,NO_EQUIV
+nokarin ka makatuknang,inquiry about a specific place,PRON (interrog) + PRON + VERB,where do you live,saan ka nakatira,used for asking location,NO_EQUIV
+bakit ka mimwa,hearing on expression of anger emotion,PRON (interrog) + PRON + VERB,why are you angry,bakit ka nagagalit,used for expressing emotion,NO_EQUIV
+makananung malutung sisg,inquiry on instructions to cook a dish (sisig),VERB + NOUN,how to cook sisig,paano magluto ng sisg,used for instructions,makananung malutung sisg
+byasa kang magsalitang english,asking about a person ability to speak english,VERB + PRON + NOUN,do you speak english,nakapagsasalita ka ba ng ingles,used for asking ability,byasa kang magsalitang english
+nokarin yang lugar ini,asking about the place,PRON (interrog) + PRON + NOUN + DET,where is this place,san lugar ito,used for asking location,NO_EQUIV
+nanung lagyu mu,asking about the identification of the person,PRON (interrog) + NOUN + PRON,what is your name,anong pangalan mo,used for introductions,nanung lagyu mu
+nokarin ing paradahan,asking about whereabouts of the terminal,PRON (interrog) + NOUN,where is the terminal,nasaan ang paradahan,used for asking,NO_EQUIV
+mayap a bage,expression on good thing,NOUN,a good thing,magandang bagay,used for positive expression,mayap a bage
+saguli mu,requesting for a little more tme,ADV,just a moment / wait a second,sandali lang,used for requesting (to wait),saguli mu
+kara’t,making babies,VERB,making babies,paggawa ng bata,used as slang,NO_EQUIV
+ke’ke,[babytalk] ‘put it here’,VERB,[babytalk] ‘put it here’,ilagay mo dito,used for dirty talk,NO_EQUIV
+eka milbabala,reassuring a person's emotion,PART (neg) + PRON + VERB,Don’t worry,huwag magalala,used for reassurance,yeka milbabala
+Tugtugan yu ing dinat yu,instruct someone to flush the toilet,VERB,Flush the toilet,buhusan yung inidoro,used for instruction,NO_EQUIV
+nanung gagawan mu,asking a person if he has a free time,PRON (interrog) + VERB + PRON,are you doing something?,may ginagawa ka ba?,used for asking,nanung gagawan mu
+mingat ka pane,reminding for the person to be cautious,VERB + PRON + ADV,be careful always,mag ingat palagi,used for reminders / warnings,NO_EQUIV
+ok nangan,stating that all is set and prepared,INTJ + VERB,everything is ready,handa na lahat,used for confirming readiness,NO_EQUIV
+mayap ideya,to tell a person's great approach to a problem,ADJ + NOUN,good idea,magandang iedya,used for giving suggestions,mayap ideya
+istu ya,stating that the person is correct,ADJ + PRON,he's right,tama siya,used for agreement / confirming correctness,istu ya
+mengan naku,means already finished eating,VERB + PRON,i ate already,kumain na ako,used for dictating / informing,NO_EQUIV
+eku antindyan,telling that the person is unsure to the concept,PART (neg) + PRON + VERB,i don't understand,hindi ko maintindihan,used when expressing,eku antindyan
+balu ku,stating person have a grasp to the subject,VERB + PRON,i know,alam ko,used for stating knowledge,balu ku
+mebalik ku pota,reassuring a person that he/she will return,VERB + PRON,i'll come back later,babalik ako mamaya,used for promising to return,mebalik ku pota
+yaku na ing mamayad,saying that person will cover the bill,PRON + PART + NOUN,i'll pay,ako na magbayad,used when volunteering to pay,NO_EQUIV
+kunan ke yan,dictating to grab one's belongings,VERB + PRON + DET,i'll take that,kuhanin ko iyan,used for claiming or taking something,kunan ke yan
+awala keng relo ku,means the person can not find his/her watch,VERB + ADP + NOUN,i lost my watch,nawala ko aking relos,used for saying you lost something,awala keng relo ku
+mako naku,indicates future action of departure,VERB + PRON,i'm going to leave,aalis na ako,used for telling departure,NO_EQUIV
+masaya ku,someone is feeling a sensation of pleasure,ADJ + PRON,i'm happy,masaya ako,used to express happiness,NO_EQUIV
+danupan ku,"having a desire, craving, need for food",VERB + PRON,i'm hungry,gutom ako,used to express hunger,danupan ku
+eku balu,means lacking complete certainty about a topic,PRON + VERB,i'm not sure,hindi ako sigurado,used to express uncertainty,NO_EQUIV
+mawa ku,having a physical need to drink,ADJ/VERB + PRON,i'm thirsty,uhaw ako,used to express thirst,NO_EQUIV
+kelangan ku muli,desire to return to one's physical dwelling,NOUN + PRON + VERB,i need to go home,kailangan ko umuwi,used to express need to go home,NO_EQUIV
+eku pa ikit yen,encountering something for the very first time,PART (neg) + PART + VERB + PRON,i've never seen that before,hindi ko pa iyan nakikita,used for saying it hasn’t been seen yet,NO_EQUIV
+lawen ku,confirming something before taking action,VERB + PRON,let me check,tingnan ko,used for checking / confirming,NO_EQUIV
+ali pa,denial with no further information of the moment,PART (neg) + ADV,not yet,hindi pa,used for denying something,NO_EQUIV
+wa naman,to give or emphasize an agreement or permission,INTJ + PART,of course,syempre,used for agreement,NO_EQUIV
+wa,to express agreement,INTJ,okay,sige,used for agreement,NO_EQUIV
+sabyan mu kaku,asking someone to provide information,VERB + PRON + PRON,you tell me,sabihin mo sakin,used for asking someone to tell you,NO_EQUIV
+dalan me kilwal,to move an altercation or fight to oudoor location,NOUN + PRON + VERB,take it outside,dalhin mo sa labas,used to settle dispute,NO_EQUIV
+hanggang keng tutuki,informal way to say farewell to a person,ADP + ADP + NOUN,till next time,hanggang sa muli,used as farewell,hanggang keng tutuki
+salamat keng eganagana,sincere and complete expression of appreciation,NOUN + ADP + NUM/DET,thanks for everything,salamat sa lahat,used for expressing gratitude,NO_EQUIV
+salamat keng sau mu,an expression of gratitude for assistance,NOUN + ADP + NOUN + PRON,thanks for your help,salamat sa iyong tulong,used for thanking,NO_EQUIV
+kagalan dakang akilala,a polite formula used on being introduced to people,VERB + PRON + VERB,nice to meet you,ikinagagalak kita makilala,used as greeting,kagalan dakang akilala
+musta ka,used to ask someone if they are well on time being,INTJ (contraction) + PRON,how are you,kamusta kana?,used for asking,NO_EQUIV
+kagalan dakang akit ngeni,said when you are glad that someone is present,VERB + PRON + VERB + ADV,good to see you,ikinagagalak kita makita,used when meeting someone,NO_EQUIV
+ing lagyu ku,phrase used to introduce yourself by identification,DET + NOUN + PRON,my name is...,ang pangalan ko ay...,used for self introduction,NO_EQUIV
+mayap atsu ka keni,inquiry about a person's reason for visiting the place,ADJ + VERB + PRON + NOUN,what brings you here,ano ang nagdadala sayo dito,used for asking,NO_EQUIV
+kamusta ya eng aldo mo,casual greeting to inquire about the person's well being,INTJ + PRON + NOUN,how is your day,kamusta ang iyong araw,used for asking,NO_EQUIV
+pakananu ka miras keni,to ask about the method of transportation to reach to current location,PRON (interrog) + PRON + VERB,how did you get here,paano ka nakapunta dito,used for asking,NO_EQUIV
+kamusta eng obra,general inquiry used to ask about a person's job,INTJ + NOUN,how's work,kamusta ang trabaho,used to ask about someone’s job,kamusta eng obra
+kamusta eng trapik,asks about the condition of the movement of vehicles on roads,INTJ + NOUN,how's traffic,kamusta ang trapik,used to ask about conditions,NO_EQUIV
+buri ke ini,"an expression of approval, enjoyment, or appreciation",VERB + PRON + DET,i like this,gusto ko ito,used for expressing preference,NO_EQUIV
+"para kaku, iyan ",means to express a personal opinion or point of view about something,ADP + PRON + DET,"to me, thats...","para sa akin, iyan ay...",used to express opinion,"para kaku, iyan "
+pwedeng manyad metung?,informal way to ask for permission to take or receive one of something,AUX + VERB + NUM,can i have one?,pwede pahingi ng isa?,used for permission,NO_EQUIV
+pwedeng mokung sopan keni?,polite way to ask for assistance or support with a specific task or issue,AUX + VERB + PRON + NOUN,can you help me with this?,pwede patulong dito?,used for assistance,NO_EQUIV
+nung ok keka?,way to ask for permission before taking action or proposing something,SCONJ + PRON + PART,If its ok with you?,kung pwede sa iyo?,used to ask permission,NO_EQUIV
+pakipasa me kaya?,request to give an item or a piece of information to a specific person,VERB + PRON + PART,please pass it to him/her,pwede pakipasa sa kanya ito?,used to ask someone,NO_EQUIV
+magpasalamat ku keku,expresses a direct thanks to a person for an action they have taken,VERB + PRON + PART,i'm thankful to you,nagpapasalamat ako sayo,used for showing gratitude,NO_EQUIV
+dakal a salamat,expression of deep gratitude or appreciation,ADJ + NOUN,thank you very much,maraming salamat,used as an expression,NO_EQUIV
+tune kang kaluguran,high compliment for someone who stands by through difficult times,ADJ + PRON + VERB,you're a true friend,tunay ka na kaibigan,used to compliment someone,NO_EQUIV
+paminsan minsan mu,"means occasionally or sometimes, but not very often",ADV,once in a while,paminsan minsan,used to indicate something,NO_EQUIV
+kailangan tayang gawan ini,expresses that an action is necessary or required,VERB + PRON + VERB + DET,we need to do this,kailangan natin gawin ito,used to stress something,NO_EQUIV
+nung balu mu,a piece of information that is a shared understanding,SCONJ + VERB + PRON,if you know,kung alam mo,used for checking,NO_EQUIV
+ating oras para ken,implying that the current moment or behavior is unsuitable for it,VERB + NOUN + ADP,there is a time for that,may oras para diyan,used to imply timing,NO_EQUIV
+malambat kunang sasabyan yan,means implying that it's not a new thought for the person,ADV + PRON + VERB + PRON,i've been saying that for a while,matagal ko na iyan sinasabi,used to emphasize something,NO_EQUIV
+ale mu dapat gagawan yan,expression of advice or a warning to someone,PART (neg) + VERB,you should'nt do that,hindi mo dapat iyan gawin,used for warning,emu dapat gagawan yan
+kailangan meba yan,asks if someone requires or desires something,VERB + AUX + PRON,do you need that?,kailangan mo ba iyan?,used for asking,NO_EQUIV
+oyan na,now,,,,,
