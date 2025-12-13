@@ -122,5 +122,3 @@ print(df.head())
 - ROXAS, Johan Rickardo A.
 - SICCUAN, Sebastian A.
 - TANK, Rithik
-
-```
