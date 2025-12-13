@@ -98,6 +98,7 @@ df = pd.read_csv('data/lexicon.csv')
 print(df.head())
 
 ---
+```
 ## Deliverables
 
 ### 1. Electronic Lexicon
