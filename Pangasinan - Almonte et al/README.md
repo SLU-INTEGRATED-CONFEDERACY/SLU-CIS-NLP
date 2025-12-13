@@ -21,7 +21,7 @@ preservation, academic research, and computational linguistics.
 
 ## 🗃️ Project Metadata
 
-Each lexicon entry contains standardized fields to maintain organization and consistency[cite: 29].
+Each lexicon entry contains standardized fields to maintain organization and consistency.
 
 | Attribute | Description |
 | :--- | :--- |
