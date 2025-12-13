@@ -1,0 +1,62 @@
+,,,,,,,,
+,Sources,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,Source ID Format: [type]_[number],,,,,,,
+,,,,,,,,
+,,,,,,,,
+,Type Code,,,,Number,,,Examples
+,"oral
+dict
+text
+song
+prov
+acad","Oral Interview
+Dictionary
+Written story/book/article
+Song/chant/verse
+Proverb/saying
+Academic paper/thesis",,,"Start from 001, 002, 003, etc.",,,"oral_001
+oral_002"
+,,,,,,,,
+,,,,,,,,
+source_id,details,date_collected,collector,link,,,,
+dict_001,The Austronesian Comparative Dictionary,9/2/2025,Hans,https://acd.clld.org/languages/291,,,,
+dict_002,Kapampangan Dictionary By ,9/2/2025,Rovic,https://dokumen.pub/kapampangan-dictionary-9780824881122-9780824881139.html,,,,
+acad_001,Kapampangan People and Their Language: A Case Study,9/3/2025,Lia,https://www.researchgate.net/publication/358840329_Kapampangan_People_and_Their_Language_A_Case_Study,,,,
+dict_003,Kapampangan .net,9/3/2025,Lia,https://kapampangan.net/,,,,
+dict_004,Capampángan Dictionary,9/3/2025,Lia,http://210.213.69.3/dicciunariu/,,,,
+text_001,Kapampangan Poems: Celebrating Love in Verses,9/3/2025,Miguel,https://poemverse.org/kapampangan-poems-about-love/,,,,
+text_002,100 Common Kapampangan Words (A to Y),9/3/2025,Miguel,https://discover.hubpages.com/education/100-Common-Kapampangan-Words-A-Y,,,,
+dict_007,Kapampangan Dictionary ,9/4/2025,Miguel,https://www.tagaloglang.com/kapampangan-dictionary/,,,,
+prov_001,Kapampangan Nation,9/4/2025,Lia,https://kapampangannation.wordpress.com/2012/10/11/pampango-proverbs/,,,,
+song_001,"Corrido qñg bie nang queralandalanan Abu-hasan
+[microform] : o ing macaguising á Máninap.",9/4/2025,Lia,https://upload.wikimedia.org/wikipedia/commons/1/1f/Corrido_q%C3%B1g_bie_nang_queralandalanan_Abu-hasan.pdf,,,,
+song_002,Ara Muna - Oh Jo Kaluguran Da Ka Lyrics,9/4/2025,Miguel,https://www.songlyrics.com/ara-muna/oh-jo-kaluguran-da-ka-lyrics/,,,,
+text_003,Ing Pangabait ng Jesus,9/4/2025,Lia,https://bloomlibrary.org/#!/player/Zxt0zIGjP2?lang=pam,,,,
+text_004,Speaking Kapampangan,9/4/2025,Lia,https://zorc.net/RDZorc/KAPAMPANGAN~PAMPANGO/speaking-kapampangan-mirikitani-part1-lesson1-to-21.pdf,,,,
+dict_005,Learn Kapampangan,9/6/2025,Nico,https://kapampangantraveller.com/blog/,,,,
+dict_006,Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan,9/9/2025,Anthony,https://siwalangsinukuan.wordpress.com/wp-content/uploads/2017/05/bergano.pdf,,,,
+dict_008,Kapampangan Machine-readable Dictionary,9/14/2025,Hans,https://kaikki.org/dictionary/Kapampangan/,,,,
+song_003,Atin Cu Pung Singsing Lyrics,9/14/2025,Hans,https://lyrics.lyricfind.com/lyrics/philippine-madrigal-singers-atin-cu-pung-singsing,,,,
+dict_009,Kapampangan Lemmas,9/14/2025,Hans,https://en.wiktionary.org/wiki/Category:Kapampangan_lemmas,,,,
+dict_010,Kapampangan Center,9/14/2025,Hans,https://kapampangancenter.org/kapampangantranslator/,,,,
+text_005,Learning to Speak Kapampangan,9/26/2025,Rovic,https://zorc.net/RDZorc/KAPAMPANGAN~PAMPANGO/speaking-kapampangan-mirikitani-part1-lesson1-to-21.pdf,,,,
+dict_011,Kapampangan Dictionary,9/26/2025,Rovic,https://www.scribd.com/document/255461541/Ka-Pampanga-n,,,,
+dict_012,Kapampangan Phrases for Travelling,9/26/2025,Rovic,https://kapampangantraveller.com/blog/,,,,
+,,,Select,,,,,
+,,,Select,,,,,
+,,,Select,,,,,
+,,,Select,,,,,
+,,,Select,,,,,
+,,,Select,,,,,
+,,,Select,,,,,
+,,,Select,,,,,
+,,,Select,,,,,
+,,,Select,,,,,
+,,,Select,,,,,
+,,,Select,,,,,
+,,,Select,,,,,
+,,,Select,,,,,
+,,,Select,,,,,
