@@ -40,8 +40,6 @@ The main file is a JSON array. Each element in the array represents **one lexica
 
 Each entry follows a consistent schema described below.
 
----
-
 ## Lexical Entry Schema
 
 Each lexical entry contains the following fields:
@@ -145,8 +143,6 @@ These examples help illustrate syntax, semantics, and pragmatic context.
 
 This ensures transparency, traceability, and academic credibility.
 
----
-
 ## Data Characteristics and Notes
 
 - Some entries are **incomplete** (e.g., missing lemma, POS, or examples).
@@ -156,8 +152,6 @@ This ensures transparency, traceability, and academic credibility.
 
 Think of this lexicon like a **growing dictionary card catalog**: some cards are fully detailed, others are placeholders waiting to be completed.
 
----
-
 ## Intended Use Cases
 
 - Linguistic analysis of Kapampangan
@@ -165,8 +159,6 @@ Think of this lexicon like a **growing dictionary card catalog**: some cards are
 - Educational materials and language learning tools
 - Cross-lingual studies (Kapampangan–Filipino–English)
 - Cultural and lexical preservation
-
----
 
 ## Pros
 
@@ -182,8 +174,6 @@ Think of this lexicon like a **growing dictionary card catalog**: some cards are
 - No sense disambiguation IDs for polysemous words
 - No frequency or usage metadata
 
----
-
 ## Future Directions
 
 Possible extensions include:
@@ -194,11 +184,24 @@ Possible extensions include:
 - Kulitan script representations
 - Validation and normalization of incomplete entries
 
----
+## Project Contributors
 
-## Summary of Key Takeaways
+This project was developed as a collaborative academic effort. The contributors are listed below:
 
-- This is a **structured Kapampangan lexical database** in JSON format.
-- Each entry captures form, meaning, grammar, usage, and source.
-- The lexicon supports both **language preservation** and **computational processing**.
-- Incompleteness reflects an evolving, research-oriented resource rather than a finished dictionary.
+- ANICOCHE, Ngel Nico Angelo
+  2220858@slu.edu.ph
+
+- BURGOS, Miguel Joshua
+  2233004@slu.edu.ph
+
+- DICTAG, Rouxvick
+  2230974@slu.edu.ph
+
+- GUIAO, Julianne Mikaela
+  2230707@slu.edu.ph
+
+- LLENA, Anthony
+  2235774@slu.edu.ph
+
+- VIDUYA, Hans Elijah
+  2233053@slu.edu.ph
