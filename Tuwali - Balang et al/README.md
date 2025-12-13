@@ -1,9 +1,9 @@
 # Tuwali–English Lexicon
 
 ## Project Description
-**A comprehensive digital dictionary preserving the Tuwali language of the Ifugao region**
+**A comprehensive digital dictionary preserving the Tuwali language(Kiangan) of the Ifugao region**
 
-This project presents a bilingual lexicon documenting the Tuwali language, an indigenous language spoken in the Ifugao province of the Philippines. The lexicon serves as a valuable resource for language preservation, linguistic research, and cultural documentation, providing detailed entries with morphological analysis, English and Tagalog translations, and cultural context.
+This project presents a trilingual lexicon documenting the Tuwali language, an indigenous language spoken in the Ifugao province of the Philippines, specifically from Kiangan. The lexicon serves as a valuable resource for language preservation, linguistic research, and cultural documentation, providing detailed entries with morphological analysis, English and Tagalog translations, and cultural context.
 
 ---
 
@@ -25,6 +25,7 @@ This project presents a bilingual lexicon documenting the Tuwali language, an in
 |-------|-------------|
 | **Dataset Name** | `Final_Tuwali_Lexicon.csv` |
 | **Language(s)** | Tuwali (Ifugao), English, Tagalog |
+| **Language Origin** | Kiangan, Ifugao |
 | **Source** | Songs, Chants, Poems, Videos, and Stories Collected/compiled by the project team |
 | **Format** | CSV (Comma-Separated Values) |
 | **Encoding** | UTF-8 |
