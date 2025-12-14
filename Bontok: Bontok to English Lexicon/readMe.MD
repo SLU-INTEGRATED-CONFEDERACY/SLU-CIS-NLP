@@ -28,9 +28,9 @@ This project presents a digital lexicon of the Bontok langauge, an indigenous la
 | **Sources** | Songs, Lyrics, Poems, Stories, Articles, Journal are compiled and extracted by the team |
 | **File Format** | CSV (Comma-Separated Values) |
 | **Number of Entries** | 1,856 |
-| **Date Creatded** | September 2025 |
+| **Date Created** | September 2025 |
 | **Instructor** | Sir Dalos Miguel |
-| **Course** | Computer Science |
+| **School and Course** | Saint Louis University, Baguio City - Computer Science |
 | **Contact Person** | 2235633@slu.edu.ph |
 
 ---
