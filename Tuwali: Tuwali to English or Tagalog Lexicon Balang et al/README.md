@@ -30,7 +30,7 @@ This project presents a trilingual lexicon documenting the Tuwali language, an i
 | **Format** | CSV (Comma-Separated Values) |
 | **Encoding** | UTF-8 |
 | **Number of Entries** | 5,755 |
-| **Date Created** | September 2024 |
+| **Date Created** | October 2025 |
 | **Academic Context** | NLP Lexicon Project, Computer Science Department |
 | **Instructor** | Sir Dalos Miguel |
 | **Contact** | 2234073@slu.edu.ph |
