@@ -1,11 +1,11 @@
-# 🌐 Lexicons Repository
+# Lexicon Repository
 
 A centralized, well-structured collection of multilingual lexicons, supporting resources, and research materials.  
 This repository is maintained to aid linguistic research, NLP development, and language documentation efforts.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ### **1. Language Folders**
 Each folder is named after a specific language and typically includes:
@@ -45,7 +45,7 @@ The objective of this project is to:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome and encouraged!
 
@@ -60,10 +60,10 @@ For major structural changes, please coordinate with the maintainers through an 
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions, clarifications, or collaboration inquiries, feel free to reach out to the repository maintainers or **Sir Dalos Miguel**.
 
 ---
 
-### ⭐ If you use this repository in research or development, please consider citing or acknowledging the project.
+### If you use this repository in research or development, please consider citing or acknowledging the project.
